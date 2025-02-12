@@ -1,6 +1,6 @@
 # Hi 👋, I'm Josh
 <p align="center">
-  <img src="[https://avatars.githubusercontent.com/u/148122240?v=4](https://avatars.githubusercontent.com/u/183086737?v=4)" width="150">
+  <img src="https://avatars.githubusercontent.com/u/183086737?v=4" width="150">
 </p>
 
 <h3 align="center">A passionate student frontend and backend developer</h3>
