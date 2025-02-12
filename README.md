@@ -1,10 +1,15 @@
-<h1 align="center">Hi 👋, I'm Josh</h1>
+# Hi 👋, I'm Josh
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/148122240?v=4" width="150">
+</p>
+
 <h3 align="center">A passionate student frontend and backend developer</h3>
 
-- 📫 How to reach me **vjoshuacarl@gmail.com**
+- 📫 How to reach me: vjoshuacarl@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <a href="https://www.linkedin.com/in/joshua-carl-valdez-414449296" target="_blank" rel="noreferrer">LinkedIn</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
