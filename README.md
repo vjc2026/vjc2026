@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm Josh</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=3498DB&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Josh!;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+</p>
 <h3 align="center">A passionate student frontend and backend developer</h3>
+
 
 <!-- A marquee for a fun scrolling message -->
 <marquee behavior="scroll" direction="left" scrollamount="10" style="font-size:1.3em; color:#3498db; margin-bottom: 20px;">
